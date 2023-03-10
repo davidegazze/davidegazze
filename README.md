@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [My Medium Page](https://medium.com/@davide.gazze)
+- 🌱 I’m currently learning Data Science and Data Engineer
+- 😄 Pronouns: He/Him
+
 <!--
 **davidegazze/davidegazze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
