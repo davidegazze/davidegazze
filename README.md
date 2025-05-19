@@ -4,6 +4,15 @@
 - 🌱 I’m currently learning Data Science and Data Engineer
 - 😄 Pronouns: He/Him
 
+Technical experience:
+- Deep Learning
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- LLMOps
+- Generative AI
+- Deep Neural Networks
+
 <!--
 **davidegazze/davidegazze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
